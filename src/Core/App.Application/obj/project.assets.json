@@ -1,0 +1,96 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "App.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/App.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/App.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "App.Domain/1.0.0": {
+      "type": "project",
+      "path": "../App.Domain/App.Domain.csproj",
+      "msbuildProject": "../App.Domain/App.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "App.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\DTSICELIK\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\DTSICELIK\\source\\repos\\OnionArchitecture\\App\\src\\Core\\App.Application\\App.Application.csproj",
+      "projectName": "App.Application",
+      "projectPath": "C:\\Users\\DTSICELIK\\source\\repos\\OnionArchitecture\\App\\src\\Core\\App.Application\\App.Application.csproj",
+      "packagesPath": "C:\\Users\\DTSICELIK\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\DTSICELIK\\source\\repos\\OnionArchitecture\\App\\src\\Core\\App.Application\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\DTSICELIK\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://code.digiturk.net/WebCollection/_packaging/TR.Bein.Packages/nuget/v3/index.json": {},
+        "https://www.myget.org/F/applicationinsights-sdk-labs/": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\DTSICELIK\\source\\repos\\OnionArchitecture\\App\\src\\Core\\App.Domain\\App.Domain.csproj": {
+              "projectPath": "C:\\Users\\DTSICELIK\\source\\repos\\OnionArchitecture\\App\\src\\Core\\App.Domain\\App.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

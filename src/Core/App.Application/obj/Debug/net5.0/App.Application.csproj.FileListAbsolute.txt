@@ -1,0 +1,15 @@
+C:\Users\DTSICELIK\source\repos\OnionArchitecture\App\src\Core\App.Application\bin\Debug\net5.0\App.Application.deps.json
+C:\Users\DTSICELIK\source\repos\OnionArchitecture\App\src\Core\App.Application\bin\Debug\net5.0\App.Application.dll
+C:\Users\DTSICELIK\source\repos\OnionArchitecture\App\src\Core\App.Application\bin\Debug\net5.0\ref\App.Application.dll
+C:\Users\DTSICELIK\source\repos\OnionArchitecture\App\src\Core\App.Application\bin\Debug\net5.0\App.Application.pdb
+C:\Users\DTSICELIK\source\repos\OnionArchitecture\App\src\Core\App.Application\obj\Debug\net5.0\App.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DTSICELIK\source\repos\OnionArchitecture\App\src\Core\App.Application\obj\Debug\net5.0\App.Application.AssemblyInfoInputs.cache
+C:\Users\DTSICELIK\source\repos\OnionArchitecture\App\src\Core\App.Application\obj\Debug\net5.0\App.Application.AssemblyInfo.cs
+C:\Users\DTSICELIK\source\repos\OnionArchitecture\App\src\Core\App.Application\obj\Debug\net5.0\App.Application.csproj.CoreCompileInputs.cache
+C:\Users\DTSICELIK\source\repos\OnionArchitecture\App\src\Core\App.Application\obj\Debug\net5.0\App.Application.dll
+C:\Users\DTSICELIK\source\repos\OnionArchitecture\App\src\Core\App.Application\obj\Debug\net5.0\ref\App.Application.dll
+C:\Users\DTSICELIK\source\repos\OnionArchitecture\App\src\Core\App.Application\obj\Debug\net5.0\App.Application.pdb
+C:\Users\DTSICELIK\source\repos\OnionArchitecture\App\src\Core\App.Application\obj\Debug\net5.0\App.Application.csproj.AssemblyReference.cache
+C:\Users\DTSICELIK\source\repos\OnionArchitecture\App\src\Core\App.Application\bin\Debug\net5.0\App.Domain.dll
+C:\Users\DTSICELIK\source\repos\OnionArchitecture\App\src\Core\App.Application\bin\Debug\net5.0\App.Domain.pdb
+C:\Users\DTSICELIK\source\repos\OnionArchitecture\App\src\Core\App.Application\obj\Debug\net5.0\App.Application.csproj.CopyComplete
